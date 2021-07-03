@@ -1,5 +1,4 @@
-module.exports = {
-  GetPostalCode: async placeId =>
+const GetDetailsByPostalCode = async placeId =>
   new Promise((resolve, reject) => {
     if (!placeId) reject("placeId not provided")
 
@@ -19,4 +18,4 @@ module.exports = {
       reject(e)
     }
   })
-}
+export default GetDetailsByPostalCode;
