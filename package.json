@@ -1,0 +1,32 @@
+{
+  "name": "autocomplete-google-addresses",
+  "version": "1.0.0",
+  "description": "Autocomplete inputs using google addresses (Google Maps API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atef2827/autocomplete-google-addresses.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "google",
+    "addresses",
+    "api",
+    "google",
+    "maps",
+    "api",
+    "js",
+    "reactjs",
+    "react",
+    "js"
+  ],
+  "author": "me@mo-webdev.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atef2827/autocomplete-google-addresses/issues"
+  },
+  "homepage": "https://github.com/atef2827/autocomplete-google-addresses#readme"
+}
