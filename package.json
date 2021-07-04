@@ -24,7 +24,7 @@
     "js"
   ],
   "author": "me@mo-webdev.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/atef2827/advanced-autocomplete-google-addresses/issues"
   },

@@ -1,4 +1,8 @@
-
+/**
+ * @export
+ * @class GoogleAutoComplete
+ * @author Mohamed Atef <me@mo-webdev.com>
+ */
 export default class GoogleAutoComplete {
 
   async getGoogleSuggestions (text, options) {
@@ -8,7 +12,6 @@ export default class GoogleAutoComplete {
               return reject("Need valid text input")
           }
           
-          // for use in things like GatsbyJS where the html is generated first
           if (typeof window === "undefined") {
               return reject("Need valid window object")
           }
