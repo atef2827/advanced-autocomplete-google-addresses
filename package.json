@@ -1,14 +1,14 @@
 {
-  "name": "react-autocomplete-google-addresses",
+  "name": "advanced-autocomplete-google-addresses",
   "version": "1.0.0",
-  "description": "Autocomplete inputs using google addresses (Google Maps API)",
+  "description": "Advanced Autocomplete input using google addresses & places (Google Maps API)",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atef2827/react-autocomplete-google-addresses.git"
+    "url": "git+https://github.com/atef2827/advanced-autocomplete-google-addresses.git"
   },
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
   "author": "me@mo-webdev.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atef2827/react-autocomplete-google-addresses/issues"
+    "url": "https://github.com/atef2827/advanced-autocomplete-google-addresses/issues"
   },
-  "homepage": "https://github.com/atef2827/react-autocomplete-google-addresses#readme"
+  "homepage": "https://github.com/atef2827/advanced-autocomplete-google-addresses#readme"
 }
